@@ -1,0 +1,28 @@
+.mainContainer {
+  min-height: 100vh;
+
+  display: flex;
+}
+
+.firstCont {
+  width: 50%;
+  background-color: #ffc533;
+}
+
+.no-user-img {
+  width: 100%;
+}
+
+.secondCont {
+  width: 50%;
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.li-list {
+  list-style-type: none;
+}
+
+p {
+  font-size: 22px;
+}
